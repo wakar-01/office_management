@@ -12,8 +12,8 @@ Python, Django, SQLite, Bootstrap 5
 
 ## How to run
 ```
-+git clone https://github.com/wakar-01/office_management.git
-+cd office_management
+git clone https://github.com/wakar-01/office_management.git
+cd office_management
 python -m venv env
 env\Scripts\activate
 pip install -r requirements.txt
